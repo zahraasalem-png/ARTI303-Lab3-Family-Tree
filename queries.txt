@@ -1,0 +1,23 @@
+8 ?- father(abdullah, najat).
+false.
+
+9 ?- father(nasser, malak).
+true.
+
+10 ?- mother(eman, zahraa).
+false.
+
+11 ?- mother(najat, zahraa).
+true.
+
+12 ?- brother(abdulelah, hussain).
+false.
+
+13 ?- brother(mohammed, eman).
+true.
+
+14 ?- sister(zahraa, hussain).
+false.
+
+15 ?- sister(malak, hussain).
+true 
